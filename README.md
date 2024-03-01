@@ -1,4 +1,4 @@
-## what if は azureにデプロイされていbicepとローカルのコードの変更の差異を確認できる
+## what if は azureにデプロイされてい本番環境とローカルのコードの変更の差異を確認できる
 
 ```sh
 az deployment group what-if --template-file main.bicep
